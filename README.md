@@ -6,6 +6,11 @@ This repository introduces COVID-19 Vaccine in Turkish Tweets Dataset. By using 
 
 
 
+# Cite as
+
+Please cite the dataset as:
+
+Özturan, Burak. (2021). COVID-19 Vaccine Tweets in Turkish (Version 1.1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.5020082
 
 
 
