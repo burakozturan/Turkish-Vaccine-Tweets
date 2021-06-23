@@ -6,7 +6,7 @@ This repository introduces COVID-19 Vaccine in Turkish Tweets Dataset. By using 
 
 
 
-# Cite as
+# Citation
 
 Please cite the dataset as:
 
